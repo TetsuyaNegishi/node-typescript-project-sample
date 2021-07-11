@@ -19,6 +19,6 @@ module.exports = {
     "plugin:jest/recommended",
     "prettier",
   ],
-  ignorePatterns: ["dist/*.js", "jest.config.js"],
+  ignorePatterns: ["dist/*.js"],
   rules: {},
 };
