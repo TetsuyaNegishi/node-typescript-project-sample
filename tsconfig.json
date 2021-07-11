@@ -70,5 +70,6 @@
   },
   "include": [
     "./src/**/*"
-  ]
+  ],
+  "exclude": ["./jest.config.js"]
 }
